@@ -1,7 +1,6 @@
 # A Geese Game
 
-## Due: December 1, 2019 at 11:50pm
-Created By: Benjamin Bach (404933137), Betto Cerrillos (004965272), Jorge Pineda (204971366)
+Created By: Benjamin Bach, Betto Cerrillos, Jorge Pineda
 
 ### Overview:
 Two teams of geese must battle for control of the land. The game involves two players controlling their respective team of geese and is played in an arena made up of grass, dirt and stone tiles, where each team begins on opposite sides of the field. There are 6 different geese flavors and a team of geese is comprised of a specific number of each character type of these geese:
